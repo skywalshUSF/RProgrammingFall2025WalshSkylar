@@ -1,5 +1,8 @@
 # Module 4 – Programming Structure in R
 
+## Blog Link:
+https://lis4370-r-programming-journal.netlify.app/posts/2025-09-15-module-4-assignment/
+
 ## Description
 Practice data cleaning and handling missing values in R.
 Create side‑by‑side boxplots and histograms for continuous measures.
