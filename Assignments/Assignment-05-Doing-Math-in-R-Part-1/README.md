@@ -1,7 +1,7 @@
 # Module 5 – Doing Math in R
 
 ## Blog Link:
-https://lis4370-r-programming-journal.netlify.app/posts/2025-09-15-module-4-assignment/
+https://lis4370-r-programming-journal.netlify.app/posts/2025-09-22-module-5-assignment/
 
 ## Description
 Practice creating and inspecting matrices in R.
