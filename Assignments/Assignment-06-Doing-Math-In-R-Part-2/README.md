@@ -1,7 +1,7 @@
 # Module 6 – Doing Math in R Part 2
 
 ## Blog Link:
-https://lis4370-r-programming-journal.netlify.app/posts/2025-09-22-module-5-assignment/
+https://lis4370-r-programming-journal.netlify.app/posts/2025-09-29-module-6-assignment/
 
 ## Description
 Practice basic matrix arithmetic in R (addition, subtraction).
