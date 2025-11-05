@@ -1,7 +1,7 @@
 # Module 11 – Debugging and Defensive Programming in R
 
 ## Blog Link:
-https://lis4370-r-programming-journal.netlify.app/posts/2025-11-03-module-11-assignment/
+https://lis4370-r-programming-journal.netlify.app/posts/2025-11-05-module-11-assignment/
 
 ## Description
 Learn to reproduce and interpret error messages in R.
