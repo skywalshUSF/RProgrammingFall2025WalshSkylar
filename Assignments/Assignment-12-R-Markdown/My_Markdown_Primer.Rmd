@@ -4,8 +4,13 @@ author: Skylar Walsh
 output: html_document
 ---
 
-
 This is my Module 12 blog post for LIS4370.
+
+Here is a link to my github repo:
+
+<https://github.com/skywalshUSF/RProgrammingFall2025WalshSkylar/tree/main/Assignments/Assignment-12-R-Markdown>
+
+[![](githubmod12.png)](githubmod12.png)
 
 ## Task: 1 - Create an R Markdown File
 
@@ -81,6 +86,7 @@ $e = 100*299,792,458^2$ is $=8.9875518e+18$
 ### Knit the document to HTML (or PDF) and save the output.
 
 ### Compare the source .Rmd file side‑by‑side with the rendered output.
+
 ### Note any formatting surprises or tips you discovered.
 
 Here is a screenshot of the code in rstudio:
